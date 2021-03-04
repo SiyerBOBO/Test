@@ -1,0 +1,16 @@
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\Test.exe.config
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\Test.exe
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\Test.pdb
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\EntityFramework.dll
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\EntityFramework.xml
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SiyerBOBO\Desktop\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\SiyerBOBO\Desktop\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\SiyerBOBO\Desktop\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\SiyerBOBO\Desktop\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\SiyerBOBO\Desktop\Test\obj\Debug\Test.exe
+C:\Users\SiyerBOBO\Desktop\Test\obj\Debug\Test.pdb
